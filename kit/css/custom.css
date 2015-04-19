@@ -1,0 +1,223 @@
+/*General Seting Begin*/
+body{
+	background: #fcfcfc;
+	overflow-x: hidden !important;
+}
+.display-none{
+	display: none !important;
+}
+.container{
+	width: 1000px;
+}
+.no-err{
+	color: #e20000;
+	font-weight: 600;
+}
+.no-padding-LR{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.login-top-layer{
+	background: none repeat scroll 0 0 #9eab05;
+}
+.header-top-link{
+	text-align: right;
+	color: #FFFFFF;
+	padding-top: 25px;
+}
+.header-top-linkCssCss strong{
+	font-weight: 600;
+	display: block;
+}
+.header-top-link a{
+	color: #fefefe;
+}
+.section-heading{
+	font-weight: 500;
+	font-size: 1.3em;
+	color: #4d4d4d;
+	border-bottom: 1px dotted #a0a0a0;
+	padding-bottom: 5px;
+	display: block;
+	color: #6d6d6d;
+}
+.section-heading span{
+	float: right;
+}
+.section-heading span a{
+	font-size: 0.7em;
+	color: #c0c0c0;
+}
+.section-heading span a:hover{
+	color: #686868;
+}
+.div-cont{
+	background: #FFFFFF;
+	padding: 10px 15px;
+	border: 1px solid #f5f5f5;
+	border-radius: 2px !important;
+	margin-bottom: 15px;
+}
+.no-record-grid{
+	text-align: center;
+	padding: 80px 5px;
+	font-size: 0.94em;
+	color: #686868;
+	font-weight: 600;
+}
+/*General Seting End*/
+
+/* Menu Bar CSS Begin*/
+.menu-row{
+	background: #6f7805;
+	color: #fcfcfc;
+	padding: 7px;
+	margin-bottom: 20px;
+}
+.bbs-menu-bar ul{
+	margin: 0;
+	padding: 0;
+}
+.bbs-menu-bar ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	margin-right: 10px;
+}
+.bbs-menu-bar ul li a{
+	color: #fefefe;
+	padding: 7px 20px 8px 20px;
+	font-weight: 600;
+}
+.bbs-menu-bar ul li a:hover{
+	color: #cccccc;
+	text-decoration: none;
+}
+.bbs-menu-bar .active-menu a{
+	background: #000000;
+}
+/* Menu Bar CSS Begin*/
+
+/*xtra CSS Begin*/
+.label-inverse{
+	background: #2d2d2d;
+	color: #fcfcfc;
+}
+.label-notify{
+	background: #1122cc;
+}
+.btn-grey{
+	background: #a0a0a0;
+	color: #FCFCFC;
+}
+.btn-grey:hover{
+	background: #555555;
+	color: #FCFCFC;
+}
+/*xtra CSS End*/
+
+/*Table CSS Begin*/
+.table-grid{
+	margin: 0px 0px;
+}
+.table-grid table{
+	border: 1px solid #fafafa;
+}
+.table-grid table tr td, .table-grid table tr th{
+	font-size: 0.98em;
+}
+.table-grid table thead tr{
+	background: #f3f3f3;
+	border: 1px solid #f0f0f0;
+}
+.table-grid table tr th{
+	font-weight: 600;
+}
+.deActivate td{
+	color: #808080 !important;
+}
+.acActivate td{
+	color: #1122cc !important;
+}
+.booking-msg-tag strong{
+	font-weight: 600;
+	color: #a0a0a0;
+}
+/*Table CSS End*/
+
+/*Modal CSS Begin*/
+.modal-sm {
+    width: 400px !important;
+}
+.modal-content {
+	border-radius: 3px !important;
+}
+.cs-modal-header,.cs-modal-body,.cs-modal-footer{
+	padding: 10px 15px;
+}
+.cs-modal-header{
+	background: #fdfdfd;
+	border-bottom: 1px solid #f5f5f5;
+}
+.cs-modal-header button{
+	float: right;
+	font-size: 1.1em;
+	color: #5d5d5d;
+}
+.cs-modal-header strong{
+	font-weight: 600;
+	font-size: 1.1em;
+	color: #4d4d4d;
+}
+.cs-modal-body{
+	padding: 25px 15px !important;
+	font-size: 0.98em;
+	color: #1d1d1d;
+}
+.cs-modal-body b{
+	font-weight: 600;
+	color: #1122cc;
+	text-decoration: underline;
+}
+.cs-modal-footer{
+	border-top: 1px solid #fafafa;
+	text-align: right;
+}
+/*Modal CSS End*/
+/*Reciept CSS Begin*/
+.reciept-win{
+	padding: 60px 10px;
+	text-align: center;
+}
+.reciept-win i{
+	font-size: 3.5em;
+}
+.reciept-win strong{
+	display: block;
+	font-weight: lighter;
+	font-size: 2.27em;
+}
+.reciept-win p{
+	margin-top: 20px;
+}
+.reciept-win a{
+	padding: 2px 30px;
+	text-transform: uppercase;
+	font-size: 0.88em;
+}
+/*Reciept CSS End*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

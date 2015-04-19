@@ -1,0 +1,39 @@
+@media (min-width: 992px) and (max-width: 1200px) {  
+	
+	
+}
+
+@media (min-width: 992px) { 
+	
+}
+
+/*Small Resolution PC */
+@media (max-width:991px) { 
+	
+}
+ 
+ /* Medium Device | iPad*/
+@media (min-width: 768px) and (max-width: 991px) { 
+} 
+
+/* Medium Device | Samsung Tab*/
+@media (max-width: 767px) { 
+	.container .row .col-md-9{
+		padding: 0px !important;
+	}
+}	
+
+/* Custom | Reports*/
+@media (max-width: 600px) { 
+	
+}	
+
+/* Small Device | Samsung Galaxy Ace*/
+@media (max-width: 480px) {
+
+}
+
+/* Small Device | Galaxy Duo*/
+@media (max-width: 320px) {
+	
+}	

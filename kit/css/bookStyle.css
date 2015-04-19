@@ -1,0 +1,91 @@
+.wiz-header{
+	background: #f8f8f8;
+	border: 1px solid #e0e0e0;
+	border-radius: 1px !important;
+	/*margin-top: 20px !important;
+	margin-bottom: 20px !important;*/
+}
+.wiz-body{
+	padding: 20px 10px;
+}
+.wiz_step_2{
+	border-left: 1px solid #e0e0e0;
+	border-right: 1px solid #e0e0e0;
+}
+.wiz_step i{
+	font-size: 1.1em;
+	padding-right: 5px;
+}
+.wiz_step{
+	padding: 10px 25px !important;
+	font-size: 1.4em;
+	font-weight: 600;
+}
+.wiz_inactive{
+	color: #a0a0a0;
+}
+.wiz_active{
+	background: #006699;
+	color: #fcfcfc;
+}
+.wiz_div{
+	/*margin-bottom: 30px;*/
+}
+.wiz-inner-container{
+	padding: 20px 10px;
+}
+.wiz-inner-container form label,.wiz_book_info p strong{
+	font-size: 0.98em;
+	color: #6d6d6d;
+	font-weight: 600;
+}
+.wiz-inner-container form input,.wiz-inner-container form textarea{
+	width: 80%;
+	margin-bottom: 15px;
+	resize: none;
+	border-radius: 3px !important;
+	padding-left: 5px !important;
+	font-size: 0.94em;
+}
+.wiz-inner-container form .duration-field{
+	width: 45px;
+	display: inline-block;
+}
+.wiz_book_info p{
+	padding: 5px 0px;
+}
+.wiz_book_info p strong{
+	display: inline-block;
+    width: 125px !important;
+}
+
+.wiz_book_info p span{
+	font-size: 1em;
+}
+.wiz_divider{
+	margin: 0 !important;
+}
+.wiz_action_row{
+	padding: 20px 0px;
+}
+.wiz_strip_info{
+	font-size: 0.94em;
+	font-style: italic;
+	color: #006699;
+}
+.wiz_strip_info strong{
+	display: block;
+	font-weight: 600;
+}
+.wiz_strip_info span{
+}
+
+.wiz_search_form{
+	padding: 30px 30px;
+}
+.wiz_search_form input, .wiz_search_form select{
+	width: 60%;
+	margin-bottom: 25px !important;
+}
+
+
